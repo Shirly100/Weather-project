@@ -1,3 +1,3 @@
 # Weather-project
 C# project
-Get the weather in a specific location.
+To get the weather in a specific location.
